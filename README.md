@@ -3,4 +3,4 @@
 # repomepo
 =======
 # github böngészőből írtam
-#laptop-ról írom ezt
+#laptop-ról írom ezt github-on
