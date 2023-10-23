@@ -33,3 +33,7 @@ th, td {
 .kep {
     border: 1px solid black;
 }
+
+a {
+    color: black;
+}
